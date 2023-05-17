@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #057ada;
+  color: aliceblue;
 }
 
 .App-logo {
@@ -13,8 +15,35 @@
   }
 }
 
+.Outer {
+  position: relative;
+}
+
+.Live {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  pointer-events: none;
+  width: 95px;
+  height: auto;
+}
+
+.Score {
+  position: absolute;
+  top: 5%;
+  left: 26%;
+  pointer-events: none;
+  width: 160px;
+  height: auto;
+}
+
+
+.InputFile {
+  border: 1px solid #ccc;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: #3fa3f5;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,13 +55,4 @@
 
 .App-link {
   color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
