@@ -14,6 +14,7 @@ function App() {
     if (fileObject === undefined){
       return;
     }
+    console.log("fileName: " + fileObject.name);
     setUploadImage(window.URL.createObjectURL(fileObject));
   };
 
