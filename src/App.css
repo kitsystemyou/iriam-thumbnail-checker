@@ -44,6 +44,7 @@
   pointer-events: none;
   width: 60px;
   height: auto;
+  visibility: visible;
 }
 
 .InputFile {
