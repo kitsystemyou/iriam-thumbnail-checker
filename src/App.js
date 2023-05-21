@@ -26,6 +26,7 @@ function App() {
         <img src={uploadImage} className="InputFile" alt="logo" width={imageWidth}/>
         <img src="live.png" className='Live' alt='live'></img>
         <img src="score.png" className='Score' alt='score'></img>
+        <img src="donuts.png" className='Donuts' alt='donuts'></img>
         </div>
         <input
           type='file'

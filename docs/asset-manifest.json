@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iriam-thumbnail-checker/static/css/main.80458d61.css",
-    "main.js": "/iriam-thumbnail-checker/static/js/main.42502b95.js",
+    "main.css": "/iriam-thumbnail-checker/static/css/main.2ae3ca5a.css",
+    "main.js": "/iriam-thumbnail-checker/static/js/main.1d02cee6.js",
     "static/js/787.7ea9f82c.chunk.js": "/iriam-thumbnail-checker/static/js/787.7ea9f82c.chunk.js",
     "index.html": "/iriam-thumbnail-checker/index.html",
-    "main.80458d61.css.map": "/iriam-thumbnail-checker/static/css/main.80458d61.css.map",
-    "main.42502b95.js.map": "/iriam-thumbnail-checker/static/js/main.42502b95.js.map",
+    "main.2ae3ca5a.css.map": "/iriam-thumbnail-checker/static/css/main.2ae3ca5a.css.map",
+    "main.1d02cee6.js.map": "/iriam-thumbnail-checker/static/js/main.1d02cee6.js.map",
     "787.7ea9f82c.chunk.js.map": "/iriam-thumbnail-checker/static/js/787.7ea9f82c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80458d61.css",
-    "static/js/main.42502b95.js"
+    "static/css/main.2ae3ca5a.css",
+    "static/js/main.1d02cee6.js"
   ]
 }
